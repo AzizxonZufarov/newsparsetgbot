@@ -1,0 +1,92 @@
+{
+    "534837": {
+        "article_date_timestamp": 1668684000.0,
+        "article_title": "Log4Shell остается грозным оружием в руках иранских киберпреступников",
+        "article_url": "https://www.securitylab.ru/news/534837.php",
+        "article_desc": "С ее помощью неизвестная иранская APT-группировка взломала сервер федерального агентства США."
+    },
+    "534836": {
+        "article_date_timestamp": 1668682118.0,
+        "article_title": "В Испании арестованы создатели пиратского телевидения",
+        "article_url": "https://www.securitylab.ru/news/534836.php",
+        "article_desc": "Сеть вещания работала 10 лет и приносила €3 млн. в год."
+    },
+    "534835": {
+        "article_date_timestamp": 1668680284.0,
+        "article_title": "Лидер киберпреступной группировки Zeus арестован в Швейцарии",
+        "article_url": "https://www.securitylab.ru/news/534835.php",
+        "article_desc": "Вячеслав Пенчуков был ключевым звеном группы и руководителем нескольких кампаний."
+    },
+    "534834": {
+        "article_date_timestamp": 1668670953.0,
+        "article_title": "50% вредоносных программ для macOS исходят от одного приложения",
+        "article_url": "https://www.securitylab.ru/news/534834.php",
+        "article_desc": "Ты должен был бороться со злом, а не примкнуть к нему."
+    },
+    "534833": {
+        "article_date_timestamp": 1668668913.0,
+        "article_title": "В сети выложены доказательства коррупции на выборах в Молдове",
+        "article_url": "https://www.securitylab.ru/news/534833.php",
+        "article_desc": "Утечка компрометирующей переписки двух политиков вызвала крупный политический скандал и протесты в Молдове."
+    },
+    "534832": {
+        "article_date_timestamp": 1668666900.0,
+        "article_title": "ФБР: TikTok – оружие Китая для влияния на весь мир",
+        "article_url": "https://www.securitylab.ru/news/534832.php",
+        "article_desc": "Китай уже украл больше личных данных американцев, чем все остальные страны вместе взятые."
+    },
+    "534831": {
+        "article_date_timestamp": 1668665102.0,
+        "article_title": "Минцифры рассказало, что делать айтишникам, не получившим отсрочку от призыва",
+        "article_url": "https://www.securitylab.ru/news/534831.php",
+        "article_desc": "Ведомство пояснило, что делать ИТ-специалистам, которые соответствуют всем критериям, но не получили отсрочку или допустили ошибку при заполнении заявления."
+    },
+    "534830": {
+        "article_date_timestamp": 1668662454.0,
+        "article_title": "Злоумышленники взломали официальную учетную запись NVIDIA в Twitter и продвигают Dogecoin",
+        "article_url": "https://www.securitylab.ru/news/534830.php",
+        "article_desc": "Ситуация выглядит забавной, учитывая недавнее приобретение Илоном Маском Twitter, а также его любовь к этой криптовалюте."
+    },
+    "534829": {
+        "article_date_timestamp": 1668661501.0,
+        "article_title": "Intel представила технологию распознавания дипфейков",
+        "article_url": "https://www.securitylab.ru/news/534829.php",
+        "article_desc": "Технология определяет дипфейк-видео в реальном времени с точностью до 96%"
+    },
+    "534828": {
+        "article_date_timestamp": 1668661171.0,
+        "article_title": "Надзорный орган ЕС призвал улучшить защиту СМИ и запретить шпионить за журналистами",
+        "article_url": "https://www.securitylab.ru/news/534828.php",
+        "article_desc": "Новый закон ЕС защищает СМИ, но чем жертвуют журналисты?"
+    },
+    "534827": {
+        "article_date_timestamp": 1668657600.0,
+        "article_title": "Ремикс: исследователи обнаружили новую версию ботнета-рэпера",
+        "article_url": "https://www.securitylab.ru/news/534827.php",
+        "article_desc": "Операторы RapperBot использовали зараженные устройства для проведения UDP-атак на серверы GTA: San Andreas."
+    },
+    "534826": {
+        "article_date_timestamp": 1668654000.0,
+        "article_title": "Получили по заслугам: два калифорнийца-мошенника помогли украсть $6 млн и отправились за решетку на 10 лет",
+        "article_url": "https://www.securitylab.ru/news/534826.php",
+        "article_desc": "Злоумышленники успели попробовать себя во всем – от мошенничества до отмывания денег."
+    },
+    "534825": {
+        "article_date_timestamp": 1668610259.0,
+        "article_title": "Какие расширения Chrome собирают больше всего данных?",
+        "article_url": "https://www.securitylab.ru/news/534825.php",
+        "article_desc": "Копирайтерам, блогерам и любителям онлайн-покупок стоит приготовиться – информация о вас может попасть не в те руки."
+    },
+    "534839": {
+        "article_date_timestamp": 1668691800.0,
+        "article_title": "Сотни экземпляров Amazon RDS раскрывают личную информацию пользователей",
+        "article_url": "https://www.securitylab.ru/news/534839.php",
+        "article_desc": "Первопричиной утечек данных стала функция, позволяющая создать публично доступный снимок всей среды БД."
+    },
+    "534838": {
+        "article_date_timestamp": 1668689237.0,
+        "article_title": "Sk Cyberday — главное событие в области кибербезопасности",
+        "article_url": "https://www.securitylab.ru/news/534838.php",
+        "article_desc": "В Москве пройдет VI Международная конференция по информационной безопасности Sk Cyberday."
+    }
+}
